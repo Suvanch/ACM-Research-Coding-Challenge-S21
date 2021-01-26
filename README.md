@@ -26,16 +26,16 @@ Regardless if you can or cannot answer the question, provide a short explanation
 ## Resources/Explanation
 
 Biopython open-source library built for computational biology and bioinformatics. Biopython offers tools to visualize different Genome analysis.
-
-The documentation of BioPython contained a tutorial on converting Genome files into different graphs to visualize the DNA features. The BioPython library also required the Python ReportLab Library to format and print the Circular genome map.
-
-ReportLab ia a robust open-source library for creating complex data-driven PDF documents.ReportLab was used to print the graph onto a PDF document.
+The documentation of BioPython contained a tutorial on converting Genome files into different graphs to visualize the DNA features. The BioPython library also required the Python ReportLab Library to format and print the Circular genome map. ReportLab ia a robust open-source library for creating complex data-driven PDF documents.ReportLab was used to print the graph onto a PDF document.
 
 
 Use the package manager pip to install biopython and reportlab.
+```bash
 
 pip install biopython
 pip install reportlab
+
+```
 
 
 This was the tutorial I followed to create the Circular genome map. This is part of the Biopython Documentation.
@@ -43,7 +43,6 @@ http://biopython.org/DIST/docs/tutorial/Tutorial.html#sec341
 
 
 Some other resources I used to understand and modifyi the program.
-
 http://biopython.org/DIST/docs/tutorial/Tutorial.html
 https://biopython.org/
 https://www.reportlab.com/docs/reportlab-userguide.pdf
