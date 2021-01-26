@@ -27,14 +27,10 @@ Regardless if you can or cannot answer the question, provide a short explanation
 
 Biopython open-source library built for computational biology and bioinformatics. Biopython offers tools to visualize different Genome analysis.
 
-The documentation of BioPython contained a tutorial on converting Genome files into different graphs to visualize the DNA features. 
-
-The BioPython library also required the Python ReportLab Library to format and print the Circular genome map.
+The documentation of BioPython contained a tutorial on converting Genome files into different graphs to visualize the DNA features. The BioPython library also required the Python ReportLab Library to format and print the Circular genome map.
 
 This was the tutorial I followed to create the Circular genome map. This is part of the Biopython Documentation.
-
 http://biopython.org/DIST/docs/tutorial/Tutorial.html#sec341
-
 
 
 Some other resources I used to understand and modifyi the program.
