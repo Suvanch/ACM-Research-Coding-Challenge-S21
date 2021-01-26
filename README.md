@@ -22,3 +22,24 @@ Genome analysis is the identification of genomic features such as gene expressio
 **You may use any programming language you feel most comfortable. We recommend Python because it is the easiest to implement. You're allowed to use any library you want to implement this**, just document which ones you used in this README file. Try to complete this as soon as possible.
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file. However, we highly recommend giving the challenge a try, you just might learn something new!
+
+## Resources/Explanation
+
+Biopython open-source library built for computational biology and bioinformatics. Biopython offers tools to visualize different Genome analysis.
+
+The documentation of BioPython contained a tutorial on converting Genome files into different graphs to visualize the DNA features. 
+
+The BioPython library also required the Python ReportLab Library to format and print the Circular genome map.
+
+This was the tutorial I followed to create the Circular genome map. This is part of the Biopython Documentation.
+
+http://biopython.org/DIST/docs/tutorial/Tutorial.html#sec341
+
+
+
+Some other resources I used to understand and modifyi the program.
+
+http://biopython.org/DIST/docs/tutorial/Tutorial.html
+https://biopython.org/
+https://www.reportlab.com/docs/reportlab-userguide.pdf
+
